@@ -64,6 +64,6 @@ img width="116" alt="new cases" src="https://github.com/user-attachments/assets/
 
 <img width="107" alt="sum of confirmed " src="https://github.com/user-attachments/assets/e56f0e29-75f9-48bf-bb91-90cbd809d859">
 
- - Step 18 : The report was then published to Power BI Service.
+ - Step 16 : The report was then published to Power BI Service.
 
 <img width="536" alt="dashboard report covid" src="https://github.com/user-attachments/assets/dc7872ed-4263-4aa3-8d44-ce71d6e4bde9">
